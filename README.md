@@ -34,5 +34,9 @@ A part of this work in the form of a literature survey in the field of transform
 | ------------------------------------ |--------| -->
 
 
+## Contributors
+
+* Kshitij Ambilduke
+* Thanmay Jayakumar
 
 
