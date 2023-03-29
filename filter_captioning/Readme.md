@@ -6,3 +6,11 @@
 A novel idea for image captioning based on having a shared workspace which acts like a filter for filtering the unwanted information from the image. This filter carries only usefull information for image captioning and hence can be fed to the language decoder for generating captions.
 
 All the image embeddings compete against each other to write into the filter and only a certain number of embeddings are allowed to write. This creates a competition among the information content of the embeddings which is governed by the common aim of getting the correct caption.
+
+
+
+| Loss Curve                           | Accuracy |
+| ------------------------------------ | -------- |
+| ![](https://i.imgur.com/PVaZk3r.png) |     ![](https://i.imgur.com/yKhHdo1.png)
+     |
+     
